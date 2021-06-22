@@ -14,3 +14,6 @@ requirements-xampp control panel
 after importing sql file
 run libaray.jar file enter username and password 
 and enjoy. 
+
+
+note-all jar files must be placed in lib folder.(create lib folder paste all jar files in it and then place this folder with libary.jar file)
